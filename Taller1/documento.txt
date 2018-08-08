@@ -1,0 +1,42 @@
+
+punto 2:
+1) cual etapa del proceso de resolucion requiera mas atencion?
+
+La etapa mas rigurosa es la de modificar ligeramente los algoritmos a existentes para que se acomode al problema especifico.
+
+2) que conocimientos son necesarios para formular el modelo matematico?
+
+En este caso, para formular el modelo matematico solo es necesario un conocimiento basico de geometria, porque realmente el algoritmo para encontrar el punto ya esta hecho, solo se necesita utilizarlo en una funcion.
+
+3) en el caso de la caja, cuales son las desventajas de intentar obtener experimentalmente la solucion mediante prueba  error en lugar de analizar el modelo matematico?
+
+Obtenerlo por prueba y error requeriria mucho tiempo, ademas de necesitar una placa como la del ejemplo cada vez que se haga una prueba.
+
+
+4) que es mas critico, el error de truncamiento o el de redondeo?
+
+En este caso, el de redondeo, porque debo acercarme al valor real, por defecto, no por exeso, ademas el computador tiene suficientes cifras decimales para que el error de truncamiento sea despreciable.
+
+
+5) cual es la ventaja de instrumentar computacinalmente un metodo numerico?
+
+Que (comparado con hacerlo por pruba y error) es mucho mas barato y mucho mas rapido. Ademas, aunque el computador maneja un umero finito de digitos, este numero es muy alto asi que la aproximacion es bastante buena.
+
+6) porque es importante validar los rresultados?
+
+Porque no siempre convergen los metodos numericos cuando se evalua una funcion
+
+
+punto 6:
+
+a) para el caso de n=73 el resultado es de 1001001 (lo cual es la representacion en binario de n)
+
+b) T(n) = 2lg(n) ya que la division y el modulo representan una operacion. En tterminos de O(), esto seria O( lg(n) ) ya que las constantes se desprecian.
+
+
+Punto 15:
+
+a) Despues de resolver la integral, queda una ecuacion en funcion de x: f(x)=5x - e^x -1
+b) La imagen esta adjunta en la carpeta (grafica.gif)
+c)
+
