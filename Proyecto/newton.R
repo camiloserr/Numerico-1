@@ -35,6 +35,6 @@ newton <- function(f , ant , xi){
 
 
 plot(f,-6,6)
-x <- (newton(f , 1.2 , 2));
+x <- (newton(f , 0.5 , 3));
 print(x)
 
